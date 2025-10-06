@@ -1,0 +1,52 @@
+body{
+    background-color: #191919;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 26px 50px;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    list-style: none;
+}
+ul a{
+    color: white;
+    text-decoration: none;
+}
+ul a:hover{
+    color:#118DA8;
+}
+.s1{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.frame{
+    width: 650px;
+    height: 873.44px;
+}
+.content{
+    color: white;
+}
+.content h2{
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 88px;
+}
+.content h2 span{
+    font-size: 75px;
+}
+.content p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+}
+.icons{
+    margin-right: 17px;
+}
