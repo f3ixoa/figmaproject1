@@ -50,3 +50,62 @@ ul a:hover{
 .icons{
     margin-right: 17px;
 }
+/*section 2*/
+.s2{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.card1{
+    display: flex;
+    background-color: #000000;
+    align-items: center;
+    gap: 53px;
+    color:white;
+    border-radius: 32px;
+    width: 1300px;
+    padding: 40px;
+    margin-bottom: 289px;;
+}
+.Gear{
+    width: fit-content;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    background-color: #191919;
+    border-radius: 6px;
+    padding: 0px 16px;
+    margin-bottom: 48px;
+}
+.Episode{
+    color: #118DA8;
+}
+.h1card1{
+    width: 701px;
+    height: 141px;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 70.4px;
+    margin-bottom: 28px;
+}
+.textcard1{
+    width: 757px;
+    height: 99px;
+    color:white;
+    opacity: 0.7;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    margin-bottom: 18px;
+}
+.btncard1{
+    width: 208px;
+    height: 51px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    background-color: #118DA8;
+    color: white;
+    border:none;
+    border-radius: 6px;
+}
