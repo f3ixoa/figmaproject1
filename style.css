@@ -54,9 +54,17 @@ ul a:hover{
 .s2{
     display: flex;
     justify-content: space-between;
-    padding: 50px;
+    padding: 80px;
+    gap:50px;
+}
+.cardtitle{
+    display: flex;
+    
 }
 .card1{
+    margin-top:60px;
+}
+.card{
     display: flex;
     background-color: #000000;
     align-items: center;
@@ -65,21 +73,10 @@ ul a:hover{
     border-radius: 32px;
     width: 1300px;
     padding: 40px;
-    margin-bottom: 289px;;
-}
-.card1{
-    display: flex;
-    background-color: #000000;
-    align-items: center;
-    gap: 53px;
-    color:white;
-    border-radius: 32px;
-    width: 1300px;
-    padding: 40px;
-    margin-bottom: 289px;;
 }
 
-.Gear{
+
+.tag{
     width: fit-content;
     font-weight: 400;
     font-size: 18px;
@@ -121,9 +118,25 @@ ul a:hover{
     border:none;
     border-radius: 6px;
 }
+/*section 3*/
 .meet{
 color: #118DA8;
 font-weight: 400;
 font-size: 18px;
 line-height: 27px ;
+}
+.text{
+    color:white;
+}
+.jacobhas{
+    opacity: 70%;
+}
+.he{
+    opacity: 70%;
+}
+.arrow{
+    background-color: #118DA8;
+    border-radius: 400px;
+    width: 112px;
+    height: 112px;
 }
