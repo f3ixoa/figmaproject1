@@ -56,10 +56,30 @@ ul a:hover{
     justify-content: space-between;
     padding: 80px;
     gap:50px;
+    flex-direction: column;
 }
 .cardtitle{
     display: flex;
-    
+    justify-content: space-between;
+    align-content: center;
+}
+.cardtitle h1{
+    color:white;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79.2px;
+    letter-spacing: 2.88px;
+}
+.cardtitle button{
+    color:white;
+    background-color:#118DA8 ;
+    width: 178px;
+    height: 51px;
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-top: 60px;
 }
 .card1{
     margin-top:60px;
@@ -119,24 +139,46 @@ ul a:hover{
     border-radius: 6px;
 }
 /*section 3*/
+.s3{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+    gap:50px;
+}
 .meet{
 color: #118DA8;
 font-weight: 400;
 font-size: 18px;
 line-height: 27px ;
+margin-top: 20px;
 }
 .text{
     color:white;
 }
+.text h1{
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 79.2px;
+    letter-spacing: 2.88px;
+}
 .jacobhas{
     opacity: 70%;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
 }
 .he{
     opacity: 70%;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
 }
 .arrow{
     background-color: #118DA8;
     border-radius: 400px;
     width: 112px;
     height: 112px;
+}
+.arrow img{
+    margin: 21px 4px;
 }
