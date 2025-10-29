@@ -182,3 +182,64 @@ margin-top: 20px;
 .arrow img{
     margin: 21px 4px;
 }
+/*section 4*/
+.s4{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+    gap:50px;
+}
+.s4card{
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+    
+    border-radius: 32px;
+    gap:227px;
+}
+.s41{
+    padding: 60px;
+}
+.s41 p{
+    color:#118DA8;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: -40px;
+}
+.s41 h1{
+    color:#ffffff;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 79.2px;
+    letter-spacing: 2.88px;
+}
+
+.s42 input{
+    background-color: #191919;
+    width: 522px;
+    height: 82px;
+    border: 1px solid #191919;
+    border-radius: 6px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.8px;
+    color:white;
+    opacity: 70%;
+    margin-top: 20px;
+    padding-left: 19px;
+}
+.s42 button{
+    background-color: #118DA8;
+    width: 87px;
+    height: 48px;
+    border-radius: 6px;
+    color:#FFFFFFB2;
+    opacity: 70%;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 28.8px;
+    margin-top: 20px;
+}
+
+/*section 5*/
