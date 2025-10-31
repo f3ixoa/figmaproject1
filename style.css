@@ -245,7 +245,7 @@ margin-top: 20px;
 .s5{
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap-reverse;
+    flex-wrap: ;
     padding: 80px;
     gap:50px;
 }
