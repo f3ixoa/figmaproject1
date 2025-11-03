@@ -245,7 +245,6 @@ margin-top: 20px;
 .s5{
     display: flex;
     justify-content: space-between;
-    flex-wrap: ;
     padding: 80px;
     gap:50px;
 }
@@ -271,4 +270,22 @@ margin-top: 20px;
 }
 .reviewpadding{
     padding: 50px;
+}
+/*section 6*/
+.s6{
+    
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: ;
+    padding: 80px;
+    gap:50px;
+}
+.s6 div p{
+    color:#ffffff;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+}
+.s6 div img{
+    margin-right: 17.05px;
 }
